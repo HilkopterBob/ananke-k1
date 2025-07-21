@@ -1,4 +1,4 @@
-title = "Notre-Dame de Paris"
+title = "CVP Immo"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 
@@ -18,12 +18,6 @@ languageCode = 'en-US'
 weight = 1
 title = "Ananke"
 # languageDirection = 'rtl' for Right-To-Left languages
-
-[languages.fr]
-contentDir = "content/fr"
-languageCode = 'fr-FR'
-weight = 2
-title = "Ananke Fr"
 
 [sitemap]
 changefreq = "monthly"
